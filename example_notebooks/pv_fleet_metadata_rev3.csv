@@ -1,0 +1,132 @@
+﻿plant_name,plant_code,latitude,longitude,ac_capacity,dc_capacity,dc_loss_factor,temperature_coefficient,tracking,tracking_type,fixed_tilt,fixed_azimuth,axis_tilt,axis_azimuth,backtrack,max_rotation_angle,ground_coverage_ratio,Crystalline Silicon?,Thin-Film (CdTe)?,Operating_Month,Operating_Year
+Cool Springs Solar (Hybrid),63721,30.747916,-84.680492,213,298,0.15,-0.35,Y,single_axis, ,180,0,180,True,60,0.35,Y,,12,2021
+Twiggs Solar,61696,32.604997,-83.491239,204,261,0.15,-0.25,Y,single_axis,0,0,0,180,False,60,0.45,,Y,9,2020
+Hickory Park Solar Hybrid,63522,31.269676,-84.176321,195.5,268.8,0.15,-0.35,Y,single_axis, , ,0,180,True,60,0.35,Y,,6,2022
+Camilla Solar Energy Project,61785,31.26955,-84.228721,171.4,224,0.15,-0.35,Y,single_axis,60,0,0,180,True,60,0.35,Y,,2,2020
+"SR DeSoto I, LLC",64841,31.886486,-84.021586,165,177.4,0.15,-0.25,Y,single_axis,20,180,0,180,False,60,0.45,,Y,12,2022
+Quitman Solar,62584,30.849005,-83.643279,150,225,0.15,-0.35,Y,single_axis, ,180,0,180,True,60,0.35,Y,,12,2019
+Quitman II Solar,64335,30.86205,-83.65165,150,210,0.15,-0.35,Y,single_axis, ,180,0,180,True,60,0.35,Y,,12,2021
+Taylor County Solar,59897,32.583056,-84.297222,148,180,0.15,-0.25,Y,single_axis, ,90,0,180,False,60,0.45,,Y,11,2016
+Robins Air Force Base Solar,61648,32.681222,-83.616387,128,175,0.15,-0.35,Y,single_axis,20,0,0,180,True,60,0.35,Y,,4,2021
+"Dougherty County Solar, LLC",62375,31.512003,-84.044499,120,174,0.15,-0.35,Y,single_axis,0,180,0,180,True,60,0.35,Y,,12,2019
+SR Snipesville II,65376,31.708821,-82.715724,107,152,0.15,-0.25,Y,single_axis, ,0,0,180,False,60,0.45,,Y,12,2021
+"SR Clay, LLC",64838,31.544831,-84.900566,106,151.4,0.15,-0.25,Y,single_axis,20,180,0,180,False,60,0.45,,Y,12,2022
+Butler Solar Project 103,59896,32.561944,-84.275833,104,141.5,0.15,-0.25,Y,single_axis, ,90,0,180,False,60,0.45,,Y,12,2016
+SR Arlington II,62367,31.415531,-84.830714,102.5,139.7,0.15,-0.35,Y,single_axis,60,60,0,180,True,60,0.35,Y,,11,2019
+"White Pine Solar, LLC",60064,32.506017,-84.256976,101.2,148.5,0.15,-0.35,,fixed,17,200,NaN,NaN,NaN,NaN,0.5,Y,,7,2016
+SR Lumpkin,64191,32.025,-84.7325,100,140,0.15,-0.25,Y,single_axis, ,0,0,180,False,60,0.45,,Y,12,2021
+Snipesville,62165,31.715814,-82.74946,86,122.8,0.15,-0.25,Y,single_axis, ,0,0,180,False,60,0.45,,Y,12,2020
+"Decatur Parkway Solar Project, LLC",59450,30.991944,-84.633889,80,110,0.15,-0.35,Y,single_axis, ,90,0,180,True,60,0.35,Y,,12,2015
+Lancaster Solar GA,64150,31.766506,-84.797206,80,114,0.15,-0.25,Y,single_axis, ,0,0,180,False,60,0.45,,Y,12,2021
+"White Oak Solar, LLC",60082,33.036789,-82.111292,76.5,112.6,0.15,-0.35,,fixed,17,200,NaN,NaN,NaN,NaN,0.5,Y,,7,2016
+SR Terrell,62058,31.871387,-84.361952,74,105.5,0.15,-0.25,Y,single_axis, ,0,0,180,False,60,0.45,N,Y,9,2020
+"SR Cedar Springs, LLC",64840,31.2453,-85.086975,70,101,0.15,-0.25,Y,single_axis,20,180,0,180,False,60,0.45,,Y,12,2022
+SR Perry,64151,32.39597,-83.762901,68,98,0.15,-0.25,Y,single_axis, ,0,0,180,False,60,0.45,,Y,12,2021
+OE_GA3,63350,31.196185,-84.147539,57.5,78,0.15,-0.25,Y,single_axis,0,180,0,180,False,60,0.45,,Y,1,2020
+Hazlehurst II,60554,31.819444,-82.602222,52.5,74.1,0.15,-0.25,Y,single_axis,45,180,0,180,False,60,0.45,,Y,12,2016
+"Live Oak Solar, LLC",60063,32.423798,-82.102824,51,76.5,0.15,-0.35,Y,single_axis,17,200,0,180,True,60,0.35,Y,,12,2016
+Moody Air Force Base Solar,62377,30.9574,-83.2229,49.5,66.2,0.15,-0.35,,fixed,15,0,NaN,NaN,NaN,NaN,0.5,Y,,6,2020
+Hazlehurst III,62057,31.832474,-82.602139,40,55.3,0.15,-0.35,Y,single_axis,60,60,0,180,True,60,0.35,Y,,12,2019
+Marine Corps Logistics Base Solar,59876,31.560729,-84.093261,31,43.2,0.15,-0.35,,fixed,18,185,NaN,NaN,NaN,NaN,0.5,Y,,2,2018
+Sumrall I Solar Farm,60306,31.403531,-89.49764,52,74.1,0.15,-0.35,Y,single_axis, ,90,0,180,True,60,0.35,Y,,6,2017
+Pawpaw Solar Plant,59894,32.572875,-84.256778,30.5,42.5,0.15,-0.35,Y,single_axis, ,90,0,180,True,60,0.35,Y,,3,2016
+Simon Solar Farm LLC,58628,33.678056,-83.675833,30,38.6,0.15,-0.35,,fixed,20,180,NaN,NaN,NaN,NaN,0.5,Y,,11,2013
+Fort Benning Solar Facility,59862,32.352369,-84.968819,30,41.5,0.15,-0.35,,fixed,20,195,NaN,NaN,NaN,NaN,0.5,Y,,12,2015
+Fort Gordon Solar Facility,59863,33.386625,-82.140117,30,42.5,0.15,-0.35,,fixed,20,195,NaN,NaN,NaN,NaN,0.5,Y,,10,2016
+Kings Bay Solar Facility,59864,30.827627,-81.556238,30,41.5,0.15,-0.35,,fixed,16,195,NaN,NaN,NaN,NaN,0.5,Y,,12,2016
+Fort Stewart Solar Facility,59865,31.90474,-81.595373,30,43.5,0.15,-0.35,,fixed,20,195,NaN,NaN,NaN,NaN,0.5,Y,,10,2016
+Baxley,64211,31.877717,-82.333892,25,37,0.15,-0.35,Y,single_axis, ,0,0,180,True,60,0.35,Y,N,12,2020
+Hattiesburg Solar Farm,60552,31.275828,-89.301156,50,67.5,0.15,-0.35,,fixed,20,180,NaN,NaN,NaN,NaN,0.5,Y,,10,2017
+Butler Solar Farm 20,59891,32.575542,-84.316547,22,29,0.15,-0.25,N,fixed,25,197.2,NaN,NaN,NaN,NaN,0.5,,Y,2,2016
+LaFayette Solar Farm,60583,32.876313,-85.38821,79.2,116.9,0.15,-0.35,Y,single_axis, ,180,0,180,True,60,0.35,Y,,12,2017
+Decatur County Solar Project,59449,30.965,-84.626111,20,27,0.15,-0.35,Y,single_axis, ,90,0,180,True,60,0.35,Y,,12,2015
+SR Hazlehurst,59535,31.810278,-82.575,20,27.4,0.15,-0.35,,fixed,20,180,NaN,NaN,NaN,NaN,0.5,Y,,11,2015
+Fort Rucker Solar Array,60679,31.331148,-85.73019,10.6,12.7,0.15,-0.25,,fixed,20,188,NaN,NaN,NaN,NaN,0.5,,Y,4,2017
+ANAD Solar Array,60680,33.626728,-85.969481,7.4,9.7,0.15,-0.25,,fixed,20,180,NaN,NaN,NaN,NaN,0.5,,Y,7,2017
+SR Arlington I,62436,31.402919,-84.836814,20,29,0.15,-0.25,Y,single_axis, ,0,0,180,False,60,0.45,,Y,12,2021
+SR Odom,63814,31.06987,-83.596183,20,30,0.15,-0.25,Y,single_axis, ,0,0,180,False,60,0.45,,Y,11,2020
+Gulfport Naval Base CSG PV System,61208,30.379866,-89.119233,3.5,4.2,0.15,-0.35,Y,single_axis,15,135,0,180,True,60,0.35,Y,,5,2017
+Old Midville Solar,60741,32.820676,-81.98176,19.7,28.2,0.15,-0.35,Y,single_axis,0,0,0,180,True,60,0.35,Y,,11,2016
+Rincon Solar I,60702,32.292879,-81.284401,18.4,21.2,0.15,-0.35,Y,single_axis,0,90,0,180,True,60,0.35,Y,,12,2016
+Solar Glynn,60469,31.25,-81.433,18,23,0.15,-0.35,,fixed,20,180,NaN,NaN,NaN,NaN,0.5,Y,,12,2016
+Camilla Solar Plant,58892,31.183889,-84.131944,16,20.3,0.15,-0.35,,fixed,30,180,NaN,NaN,NaN,NaN,0.5,Y,,11,2013
+Fort Valley State University Solar,63062,32.501558,-83.883386,10.8,15.1,0.15,-0.35,,fixed,20,180,NaN,NaN,NaN,NaN,0.5,Y,,1,2022
+"Azalea Solar, LLC",58482,32.980833,-82.591667,7.7,9.7,0.15,-0.35,,fixed,20,180,NaN,NaN,NaN,NaN,0.5,Y,,12,2013
+Dalton 2,59556,34.718056,-84.931944,6.5,7.1,0.15,-0.35,,fixed,22,180,NaN,NaN,NaN,NaN,0.5,Y,N,12,2014
+Dublin Solar I,60930,32.581,-82.926,4.1,4.4,0.15,-0.35,Y,single_axis,0,90,0,180,True,60,0.35,Y,,4,2015
+Guyton Community Solar,62392,32.412773,-81.442846,3.6,4.7,0.15,-0.35,Y,single_axis, ,180,0,180,True,60,0.35,Y,,7,2019
+Gratis Road Solar Facility,61740,33.844621,-83.697356,3,4,0.15,-0.35,,fixed,20,180,NaN,NaN,NaN,NaN,0.5,Y,,1,2018
+Franklin Milliken,64276,34.442071,-83.099118,3,4,0.15,-0.35,Y,single_axis,55,180,0,180,True,60,0.35,Y,,4,2020
+Meridian III,62163,32.453955,-88.549484,52.5,75.1,0.15,-0.35,Y,single_axis,60,60,0,180,True,60,0.35,Y,,12,2019
+Greene Durham,64277,33.631459,-83.093491,3,4,0.15,-0.35,Y,single_axis,55,180,0,180,True,60,0.35,Y,,6,2020
+Meriwether Jackson,64280,32.877496,-84.644367,3,4,0.15,-0.35,Y,single_axis,55,180,0,180,True,60,0.35,Y,,4,2020
+Murray Treadwell Farms,64281,34.769747,-84.813284,3,4,0.15,-0.35,Y,single_axis,55,180,0,180,True,60,0.35,Y,,3,2020
+Ware Avra I,64285,31.196314,-82.322357,3,4,0.15,-0.35,Y,single_axis,55,180,0,180,True,60,0.35,Y,,4,2020
+Wilkinson DeFore,65481,32.8813,-83.3029,3,4,0.15,-0.35,Y,single_axis,55,180,0,180,True,60,0.35,Y,,4,2020
+Statesboro Solar LLC,65727,32.468039,-81.803722,3,4,0.15,-0.35,Y,single_axis, ,0,0,180,True,60,0.35,Y,,12,2022
+BE Solar LLC,65728,30.91,-84.548,3,4,0.15,-0.35,Y,single_axis, ,0,0,180,True,60,0.35,Y,,11,2022
+"Turnipseed Solar, LLC",66205,33.69915,-84.678913,3,3.9,0.15,-0.35,,fixed,20,180,NaN,NaN,NaN,NaN,0.5,Y,,11,2017
+Georgia Power at Swainsboro,61459,32.605,-82.321,2.9,4.3,0.15,-0.35,,fixed,20,180,NaN,NaN,NaN,NaN,0.5,Y,,11,2017
+Putnam Erikson 2,65759,33.276821,-83.29845,2.9,4.1,0.15,-0.25,,fixed,25,180,NaN,NaN,NaN,NaN,0.5,,Y,11,2021
+Bulloch Neville Farms,64275,32.384398,-81.67292,2.7,3.6,0.15,-0.35,Y,single_axis,55,180,0,180,True,60,0.35,Y,,5,2020
+Putnam Erickson,64282,33.317653,-83.39233,2.7,3.6,0.15,-0.35,Y,single_axis,55,180,0,180,True,60,0.35,Y,,3,2020
+Coody Cochran,64571,32.367009,-83.374275,2.6,3.5,0.15,-0.35,Y,single_axis, ,55,0,180,True,60,0.35,Y,,10,2019
+Westberry Jesup,64583,31.602803,-81.932581,2.6,3.5,0.15,-0.35,Y,single_axis, ,55,0,180,True,60,0.35,Y,,1,2020
+Rockmart,65730,34.014833,-85.022235,2.6,3.6,0.15,-0.35,Y,single_axis, ,0,0,180,True,60,0.35,Y,,11,2022
+Pleasant Valley Solar,60586,33.7368,-83.6971,2.5,3.3,0.15,-0.35,,fixed,20,180,NaN,NaN,NaN,NaN,0.5,Y,,4,2016
+Apalachicola,64565,33.33632,-82.06055,2.5,3.5,0.15,-0.35,Y,single_axis, ,55,0,180,True,60,0.35,Y,,11,2019
+Camp Solar Plant,58893,32.964722,-84.543889,2.4,3.2,0.15,-0.35,,fixed,30,180,NaN,NaN,NaN,NaN,0.5,Y,,12,2013
+Waynesboro Community Solar,62409,33.170593,-81.823938,2.4,3.2,0.15,-0.35,,fixed,23,180,NaN,NaN,NaN,NaN,0.5,Y,,6,2019
+Richmond Hayes Solar,62884,33.364,-82.022,2.3,2.8,0.15,-0.35,,fixed,10,180,NaN,NaN,NaN,NaN,0.5,Y,,11,2018
+Troup RC50,62885,32.895935,-84.849483,2.3,2.9,0.15,-0.35,Y,single_axis,10,180,0,180,True,60,0.35,Y,,4,2019
+Wilkinson DeFore,62886,32.879593,-83.320986,2.3,3,0.15,-0.35,Y,single_axis,10,180,0,180,True,60,0.35,Y,,5,2019
+Kimberly-Clark Solar,62960,33,-85.034,2.3,3,0.15,-0.35,,fixed,20,180,NaN,NaN,NaN,NaN,0.5,Y,,1,2019
+Lowndes Tycor Farms,64279,30.688193,-83.167146,2.3,3,0.15,-0.35,Y,single_axis,55,180,0,180,True,60,0.35,Y,,5,2020
+Polk Cedartown,64586,34.019643,-85.280881,2.2,3,0.15,-0.35,Y,single_axis, ,55,0,180,True,60,0.35,Y,,10,2019
+Fountain Folkston,64584,30.916375,-81.960231,2.1,2.8,0.15,-0.35,Y,single_axis, ,55,0,180,True,60,0.35,Y,,11,2019
+Harris Shiloh,64585,32.797582,-84.69659,2.1,2.8,0.15,-0.35,Y,single_axis, ,55,0,180,True,60,0.35,Y,,4,2020
+Comer Solar,61554,34.0942,-83.1439,2,2.8,0.15,-0.35,,fixed,23,180,NaN,NaN,NaN,NaN,0.5,Y,,1,2018
+Columbia Substation,64570,33.567718,-82.299071,2,2.6,0.15,-0.35,Y,single_axis, ,55,0,180,True,60,0.35,Y,,5,2020
+Shawnee - GA,64582,33.107648,-81.980751,2,2.8,0.15,-0.35,Y,single_axis, ,55,0,180,True,60,0.35,Y,,10,2020
+"Cairo Solar Farm, LLC",66199,30.911286,-84.22888,2,2.6,0.15,-0.35,,fixed,20,180,NaN,NaN,NaN,NaN,0.5,Y,,6,2017
+"Cedar Creek Solar, LLC",66200,34.02783,-83.75747,2,2.6,0.15,-0.35,,fixed,20,180,NaN,NaN,NaN,NaN,0.5,Y,,10,2017
+McCleskey Cotton,62878,31.825063,-84.385575,1.9,2.5,0.15,-0.35,Y,single_axis,10,180,0,180,True,60,0.35,Y,,6,2019
+Telfair Thompson,62883,32.058559,-82.871786,1.9,2.7,0.15,-0.35,Y,single_axis,10,180,0,180,True,60,0.35,Y,,12,2018
+Ware Avra II,64286,31.196314,-82.322357,1.9,2.5,0.15,-0.35,Y,single_axis,55,180,0,180,True,60,0.35,Y,,4,2020
+Terrell Riles Stovall,64283,31.785503,-84.448411,1.7,2.3,0.15,-0.35,Y,single_axis,55,180,0,180,True,60,0.35,Y,,5,2020
+Arnold Cochran,64569,32.399366,-83.343779,1.7,2.3,0.15,-0.35,Y,single_axis, ,55,0,180,True,60,0.35,Y,,4,2020
+Seminole,60514,31.065112,-84.931702,1.6,2,0.15,-0.35,Y,single_axis,30,180,0,180,True,60,0.35,Y,,10,2014
+Georgia Power at Jakin GA PV,61397,31.138,-85.031,1.5,1.8,0.15,-0.35,Y,single_axis, ,180,0,180,True,60,0.35,Y,,12,2017
+Muscogee Public Works,62881,32.49375,-84.861326,1.5,2.1,0.15,-0.35,Y,single_axis,10,180,0,180,True,60,0.35,Y,,1,2019
+Solar BESS Hybrid,63535,33.979348,-84.556128,1.5,1.8,0.15,-0.35,,fixed, , ,NaN,NaN,NaN,NaN,0.5,Y,,10,2020
+Lowndes IDA,64278,30.835452,-83.227515,1.5,2,0.15,-0.35,Y,single_axis,55,180,0,180,True,60,0.35,Y,,4,2020
+Troup RC50 II,64284,32.898784,-84.896165,1.5,2,0.15,-0.35,Y,single_axis,55,180,0,180,True,60,0.35,Y,,4,2020
+Denver Braswell PV,61441,31.3,-83.8,1.4,2,0.15,-0.35,N,fixed,25,180,NaN,NaN,NaN,NaN,0.5,Y,,8,2017
+Columbia Bryson,62879,33.429859,-82.196002,1.4,1.8,0.15,-0.35,Y,single_axis,10,180,0,180,True,60,0.35,Y,,12,2018
+Oil Dri 2 Solar,62882,30.991,-84.066,1.4,1.9,0.15,-0.35,Y,single_axis,10,180,0,180,True,60,0.35,Y,,5,2019
+Freeman Avenue,62887,32.182026,-84.14762,1.4,1.8,0.15,-0.35,Y,single_axis,10,180,0,180,True,60,0.35,Y,,11,2019
+IKEA Savannah 490,58011,32.177535,-81.173775,1.2,1.5,0.15,-0.35,,fixed,12,180,NaN,NaN,NaN,NaN,0.5,Y,,9,2012
+Curry Solar,64226,32.038819,-82.140318,1.1,1.7,0.15,-0.35,,fixed,30,180,NaN,NaN,NaN,NaN,0.5,Y,,6,2015
+IKEA Savannah 490,58011,32.177535,-81.173775,1,1.5,0.15,-0.35,,fixed,12,180,NaN,NaN,NaN,NaN,0.5,Y,,1,2021
+Laredo Bus Facility Solar Canopies,58064,33.783333,-84.267778,1,1.2,0.15,-0.35,,fixed,20,180,NaN,NaN,NaN,NaN,0.5,Y,,1,2012
+Valdosta,60448,30.81012,-83.225958,1,1.3,0.15,-0.35,,fixed,25,180,NaN,NaN,NaN,NaN,0.5,Y,,10,2013
+Greenville,60512,33.045801,-84.714434,1,2,0.15,-0.35,,fixed,25,180,NaN,NaN,NaN,NaN,0.5,Y,,9,2014
+Richland,60513,32.088982,-84.663529,1,1,0.15,-0.35,,fixed,25,180,NaN,NaN,NaN,NaN,0.5,Y,,9,2014
+Vidalia Water Treatment Plant,60515,31.050322,-83.394659,1,1,0.15,-0.35,,fixed,20,180,NaN,NaN,NaN,NaN,0.5,Y,,1,2014
+Tri-County Solar Facility,60544,33.308113,-83.389601,1,1.4,0.15,-0.35,,fixed,22,180,NaN,NaN,NaN,NaN,0.5,Y,N,6,2016
+Mount Vernon Solar,60585,33.8388,-83.638,1,1.3,0.15,-0.35,,fixed,20,180,NaN,NaN,NaN,NaN,0.5,Y,,7,2015
+Valdosta Prison,61468,30.9,-83.3,1,1.5,0.15,-0.35,,fixed,25,180,NaN,NaN,NaN,NaN,0.5,Y,,8,2017
+Bibb Jones,62880,32.777747,-83.756164,1,1.3,0.15,-0.35,Y,single_axis,10,180,0,180,True,60,0.35,Y,,2,2019
+Bainbridge Solar,64011,30.967159,-84.625537,1,1.3,0.15,-0.35,,fixed,20,180,NaN,NaN,NaN,NaN,0.5,Y,,4,2019
+Lakeland Solar Energy LLC,58572,31.026944,-83.055,0.9,1,0.15,-0.35,,fixed,25,180,NaN,NaN,NaN,NaN,0.5,Y,,12,2013
+Lakeland Solar Energy LLC,58572,31.026944,-83.055,0.9,1,0.15,-0.35,,fixed,25,180,NaN,NaN,NaN,NaN,0.5,Y,,12,2013
+Upson Rocky Creek Solar Plant,58485,32.920833,-84.343056,0.8,1,0.15,-0.35,,fixed,30,180,NaN,NaN,NaN,NaN,0.5,Y,,6,2012
+Atlanta Falcons Solar,62393,33.755421,-84.400933,0.5,0.6,0.15,-0.35,,fixed,8,196,NaN,NaN,NaN,NaN,0.5,Y,,9,2016
+Atlanta Falcons Solar,62393,33.755421,-84.400933,0.3,0.4,0.15,-0.35,,fixed,5,180,NaN,NaN,NaN,NaN,0.5,Y,,10,2015
+Atlanta Falcons Solar,62393,33.755421,-84.400933,0.2,0.2,0.15,-0.35,,fixed,10,231.9,NaN,NaN,NaN,NaN,0.5,Y,,10,2017
+,,,,,,0.15,-0.25,,fixed,,,NaN,NaN,NaN,NaN,0.5,,,,
+,,,,,,0.15,-0.25,,fixed,,,NaN,NaN,NaN,NaN,0.5,,,,
+,,,,,,0.15,-0.25,,fixed,,,NaN,NaN,NaN,NaN,0.5,,,,
+,,,,,,0.15,-0.25,,fixed,,,NaN,NaN,NaN,NaN,0.5,,,,
+,,,,,,0.15,-0.25,,fixed,,,NaN,NaN,NaN,NaN,0.5,,,,
+,,,,,,0.15,-0.25,,fixed,,,NaN,NaN,NaN,NaN,0.5,,,,
