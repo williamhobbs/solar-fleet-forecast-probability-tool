@@ -41,7 +41,7 @@ The solar fleet used is based on EIA Form 860 data for the Southern Company bala
 Review the Jupyter notebook files in order, starting with [01_intro_to_solar_actuals_and_forecasts.ipynb](01_intro_to_solar_actuals_and_forecasts.ipynb).
 
 ### (Partial list of) References
-This project uses several Python packages, including pvlib, an open-source solar PV modeling package [1, 2], Herbie [3, 4], a package for accessing weather forecast data from NOAA, XGBoost [5], and quantile-forest [6].
+This project uses several Python packages, including pvlib, an open-source solar PV modeling package [1, 2], Herbie [3, 4], a package for accessing weather forecast data from NOAA, XGBoost [5], and quantile-forest [6]. Deterministic forecasts are inspired by the Solar Forecast Arbiter [7]. A complete list of references will be in the forthcoming PVSC manuscript. 
 
 <img src="images/pvlib_powered_logo_horiz.png" width="200"/>
 
@@ -57,3 +57,12 @@ This project uses several Python packages, including pvlib, an open-source solar
 [5] Tianqi Chen and Carlos Guestrin. "XGBoost: A Scalable Tree Boosting System."Proceedings of the 22nd ACM SIGKDD International Conference on Knowledge Discovery and Data Mining, ACM, 2016. http://doi.acm.org/10.1145/2939672.2939785 (https://github.com/dmlc/xgboost/)
 
 [6] Reid A. Johnson. "quantile-forest: A Python Package for Quantile Regression Forests." Journal of Open Source Software, 2024, https://doi.org/10.21105/joss.05976. 
+
+[7] C. W. Hansen, W. F. Holmgren, A. Tuohy, J. Sharp, A. T. Lorenzo,
+L. J. Boeman, and A. Golnas, “The solar forecast arbiter: An open
+source evaluation framework for solar forecasting,” in 2019 IEEE 46th
+Photovoltaic Specialists Conference (PVSC), 2019, pp. 2452–2457.
+[Online]. Available: https://doi.org/10.1109/PVSC40753.2019.8980713 (see also: https://github.com/SolarArbiter/solarforecastarbiter-core)
+
+### Acknowledgements
+Thanks to Will Holmgren at DNV for troubleshooting and other assistance with setting up a version of the Solar Forecast Arbiter reference forecasts, which inspired portions of this work. Thanks to David Larson and Dan Kirk-Davidoff at EPRI for inspiration and feedback related to tools and datasets to use in this work. A portion of this work used code generously provided by Brian Blaylock's Herbie python package (\url{https://doi.org/10.5281/zenodo.4567540}) -- thanks to Brian for publishing and maintaining that package, and for responding to requests that helped make this work possible.
