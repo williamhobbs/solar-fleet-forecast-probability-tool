@@ -1,6 +1,11 @@
-# solar-forecaster
+# solar-fleet-forecast-probability-tool
+Will Hobbs
 
-This is an open-source tool/framework for making a probabilistic power forecast for a fleet of solar plants using an existing deterministic forecast. It has been developed and demonstrated for day-ahead forecasts. 
+2024-04-17
+***
+This is an open-source tool/framework for making a probabilistic power forecast for a fleet of solar plants using an existing deterministic forecast. It has been developed and demonstrated for day-ahead forecasts, but the structure could be extended to shorter and longer horizons. 
+
+_Note: An accompanying manuscript is being prepared for IEEE PVSC 2024, and will be referenced here when it is available._
 
 Two custom indicators of forecast uncertainty are derived from NOAA numerical weather prediction models (NWPs):
 1. Spatial variation in irradiance from the HRRR
