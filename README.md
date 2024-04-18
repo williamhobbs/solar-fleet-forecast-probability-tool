@@ -38,7 +38,31 @@ The solar fleet used is based on EIA Form 860 data for the Southern Company bala
 
 ### Using this repository
 
-Review the Jupyter notebook files in order, starting with [01_intro_to_solar_actuals_and_forecasts.ipynb](01_intro_to_solar_actuals_and_forecasts.ipynb).
+Review the Jupyter notebook files in order, starting with [01_intro_to_solar_actuals_and_forecasts.ipynb](01_intro_to_solar_actuals_and_forecasts.ipynb). That notebook includes details on setting up an environment and installing required packages. 
+
+Here is a full list of the notebooks with short descriptions:
+- [01_intro_to_solar_actuals_and_forecasts.ipynb](01_intro_to_solar_actuals_and_forecasts.ipynb) 
+  - Setup and demonstration of downloading observed weather (from NSRDB) and forecasted weather (from HRRR)    
+- [02_solar_power_forecasts.ipynb](02_solar_power_forecasts.ipynb) 
+  - Calculating power for a fleet of solar plants  
+- [03_considerations_for_actual_weather.ipynb](03_considerations_for_actual_weather.ipynb)  
+  - Why we use HRRR for modeling observations instead of NSRDB
+- [04_spatial_variation_in_irradiance.ipynb](04_spatial_variation_in_irradiance.ipynb)
+  - Our first forecast uncertainty indicator from HRRR
+- [05_ensemble_variation_in_cloud_cover.ipynb](05_ensemble_variation_in_cloud_cover.ipynb)
+  - Our second forecast uncertainty indicator from GEFS
+- [06_indicators_of_forecast_error.ipynb](06_indicators_of_forecast_error.ipynb)
+  - Combining the two uncertainty indicators and briefly looking at correlations with forecast error
+- [07_get_many_historical_forecasts.ipynb](07_get_many_historical_forecasts.ipynb)
+  - Retrieving several years of forecasts and observations (this step can be skipped if you only want to model the fleet of plants included here)
+- [08_prep_data_for_machine_learning.ipynb](08_prep_data_for_machine_learning.ipynb)
+  - Merging data and a bit of feature engineering
+- [09_machine_learning_models.ipynb](09_machine_learning_models.ipynb)
+  - Training and evaluating quantile regressions that produce our probabilistic forecast
+- [10_operational_forecast_example.ipynb](10_operational_forecast_example.ipynb)
+  - Example of how the models could be deployed
+- [11_revisting_early_forecast.ipynb](11_revisting_early_forecast.ipynb)
+  - A look at an set of example forecasts we created early on, now with probabilistic prediction intervals
 
 ### (Partial list of) References
 This project uses several Python packages, including pvlib, an open-source solar PV modeling package [1, 2], Herbie [3, 4], a package for accessing weather forecast data from NOAA, XGBoost [5], and quantile-forest [6]. Deterministic forecasts are inspired by the Solar Forecast Arbiter [7]. A complete list of references will be in the forthcoming PVSC manuscript. 
