@@ -63,6 +63,8 @@ Here is a full list of the notebooks with short descriptions:
   - Example of how the models could be deployed
 - [11_revisting_early_forecast.ipynb](11_revisting_early_forecast.ipynb)
   - A look at an set of example forecasts we created early on, now with probabilistic prediction intervals
+- [12_compare_with_persistence_ensemble.ipynb](12_compare_with_persistence_ensemble.ipynb)
+  - A comparison of sharpness with a simple persistence ensemble forecast
 
 ### (Partial list of) References
 This project uses several Python packages, including pvlib, an open-source solar PV modeling package [1, 2], Herbie [3, 4], a package for accessing weather forecast data from NOAA, XGBoost [5], and quantile-forest [6]. Deterministic forecasts are inspired by the Solar Forecast Arbiter [7]. A complete list of references will be in the forthcoming PVSC manuscript. 
