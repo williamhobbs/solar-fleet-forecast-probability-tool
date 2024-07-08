@@ -5,7 +5,7 @@ Will Hobbs
 ***
 This is an open-source tool/framework for making a probabilistic power forecast for a fleet of solar plants using an existing deterministic forecast. It has been developed and demonstrated for day-ahead forecasts, but the structure could be extended to shorter and longer horizons. 
 
-_Note: An accompanying manuscript is being prepared for IEEE PVSC 2024, and will be referenced here when it is available._
+An accompanying manuscript is has been submitted to IEEE PVSC 2024, and the preprint is available here: [manuscript\2024_PVSC_probabilistic_forecasts_hobbs_PREPRINT.pdf](manuscript\2024_PVSC_probabilistic_forecasts_hobbs_PREPRINT.pdf). PPTX and PDF versions of the presentation from that conference are available in the [presentation folder](presentation).
 
 Two custom indicators of forecast uncertainty are derived from NOAA numerical weather prediction models (NWPs):
 1. Spatial variation in irradiance from the HRRR
